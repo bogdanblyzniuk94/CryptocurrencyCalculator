@@ -1,0 +1,14 @@
+.currencySelect {
+    display: flex;
+    margin: 20px 0px;
+}
+.currencySelectButton {
+    color: #8FD051;
+    background-color: #0D2F52;
+    margin-top: 10px;
+}
+.currencySelectButton:hover {
+    background-color: #8FD051;
+    color: #0D2F52;
+}
+

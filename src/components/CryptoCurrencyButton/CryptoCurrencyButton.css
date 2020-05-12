@@ -1,0 +1,20 @@
+.btn-secondary {
+    width: 100%;
+    margin-top: 50px;
+    text-align: left;
+    border: none;
+    border-radius: 0px;
+    color: #7DACF3;
+    background-color: #0D2F52;
+}
+.btn-secondary:hover {
+    background-color: rgb(47, 89, 151);
+    color: #0D2F52;
+}
+.cryptoCurrencyName {
+    text-align: center;
+    color: #8FD051;
+}
+.cryptoCurrencyImage {
+    text-align: center;
+}

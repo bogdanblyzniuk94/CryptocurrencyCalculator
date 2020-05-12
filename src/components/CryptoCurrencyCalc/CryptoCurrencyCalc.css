@@ -1,0 +1,23 @@
+input {
+    margin: 0px 10px;
+    background-color: #06162E;
+    border: 1px solid #083050;
+    color: #7DACF3;
+    width: 250px;
+}
+.currencyTable {
+    display: flex;
+}
+.selectCurrency {
+    margin-left: 100px;
+}
+b {
+    text-transform: uppercase;
+}
+span {
+    color: #8FD051;
+    font-size: 20px;
+}
+.result {
+    color: #8FD051;
+}

@@ -1,0 +1,12 @@
+.currencyTable {
+    display: flex;
+}
+.selectCryptoCurrency {
+    margin: 10px;
+    color: #7DACF3;
+    font-size: 24px;
+}
+.selectedCoin {
+    text-transform: uppercase;
+    color: #7DACF3;
+}
